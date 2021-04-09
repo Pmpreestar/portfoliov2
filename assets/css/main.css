@@ -24,6 +24,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+	
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -304,7 +305,7 @@ input, select, textarea {
 		}
 
 		.row.aln-center {
-			justify-content: center;
+			justify-content: right;
 		}
 
 		.row.aln-right {
@@ -2037,7 +2038,7 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
-		text-align: center;
+		text-align: right;
 		position: fixed;
 		left: 0;
 		top: 0;
