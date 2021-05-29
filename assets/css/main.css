@@ -82,6 +82,9 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
+	h1{
+		font-family: 'Nothing You Could Do';
+	}
 
 	body {
 		padding-top: 3.5em;
@@ -98,7 +101,7 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-	body, input, textarea, select {
+	body {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
 		color: #888;
@@ -2038,6 +2041,8 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
+		
+		/*font-family: 'Nothing You Can Do', sans-serif;*/
 		text-align: right;
 		position: fixed;
 		left: 0;
@@ -2051,6 +2056,7 @@ input, select, textarea {
 
 		#nav ul {
 			margin-bottom: 0;
+			
 			list-style: none;
 			padding-left: 0;
 		}
@@ -2076,6 +2082,7 @@ input, select, textarea {
 			height: 2.5em;
 			line-height: 2.5em;
 			padding: 0 1.25em;
+			ont-family: 'Nothing You Can Do', sans-serif;
 		}
 
 			#nav a:hover {
