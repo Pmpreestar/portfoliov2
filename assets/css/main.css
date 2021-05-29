@@ -84,11 +84,13 @@ input, select, textarea {
 	}
 	h1 {
 		font-family: 'Nothing You Could Do';
+		color: #9C9494;
 	}
 	nav{
 		font-family: 'Nothing You Could Do';
+		color: #D0F4DE; 
 	}
-
+	
 	body {
 		padding-top: 3.5em;
 	}
@@ -2043,7 +2045,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #cde4c9; 
 		
 		/*font-family: 'Nothing You Can Do', sans-serif;*/
 		text-align: right;
@@ -2076,12 +2078,12 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
+			color: #000;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
 			border-radius: 8px;
-			color: #fff;
+			color: #000;
 			height: 2.5em;
 			line-height: 2.5em;
 			padding: 0 1.25em;
