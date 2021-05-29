@@ -82,7 +82,10 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
-	h1{
+	h1 {
+		font-family: 'Nothing You Could Do';
+	}
+	nav{
 		font-family: 'Nothing You Could Do';
 	}
 
